@@ -1,8 +1,8 @@
-<h1>**Assembly Language Snake Game**</h1>
+<h1>Assembly Language Snake Game</h1>
 **About the project**
 This program is a personal project when I was learning 'computer organization and architecture' in the second year of my Management Mathematics and Computing bachelors degree. The idea behind of this program was the classic "Snake" game. This program was made using Microsoft Visual Studio 2017's 32bit MASM architecture in protected mode (no interrupts) and the Irvine32 library.
 
-<h2>**Features and Functions**</h2>
+<h2>Features and Functions</h2>
 **Game Speed Selection**
 User may choose from three speed levels, level 1 to level 3, level 3 being the slowest.
 Each of the speed levels have a 40ms difference.
@@ -25,7 +25,7 @@ The body of the snake will be moved to the coordinate of the unit before it (eg:
 **Coin Detection**
 When the Snake moves, the coordinate of the head is compared with the coordinate of the coin to check whether the snake eats a coin
 
-**Bonus Coing**
+**Bonus Coin**
 A bonus coin is created after every three coins eaten by snake, which increases the score by three.
 
 **Eat Coin**
@@ -60,7 +60,7 @@ x	Quits the game at any time
 enter	Pause, (w,a,s,d to unpause)
 (make sure that your capslock is disabled)
 
-**Output Screens**
+<h2>Output Screens</h2>
 <img width="671" alt="image" src="https://github.com/smshozab/snake_in_asm/assets/29998010/6610c6f2-5aba-4ab4-a776-1e197010d87c">
 <img width="674" alt="image" src="https://github.com/smshozab/snake_in_asm/assets/29998010/54e988d8-421d-437a-9863-0967d5c6a6f8">
 <img width="675" alt="image" src="https://github.com/smshozab/snake_in_asm/assets/29998010/7e79238e-8061-4514-a028-5f306f10d724">
