@@ -1,5 +1,5 @@
 <h1>Assembly Language Snake Game</h1>
-**About the project**
+<h2></h2>About the project</h2>
 This program is a personal project when I was learning 'computer organization and architecture' in the second year of my Management Mathematics and Computing bachelors degree. The idea behind of this program was the classic "Snake" game. This program was made using Microsoft Visual Studio 2017's 32bit MASM architecture in protected mode (no interrupts) and the Irvine32 library.
 
 <h2>Features and Functions</h2>
@@ -50,7 +50,7 @@ Input Validation is set to detect any invalid input and prompts the user to reen
 Flowchart
 Flowchart of this program can be downloaded here: snake game flowchart.pdf
 
-**Controls**
+<h2>Controls</h2>
 Keys	Actions
 w	Move up
 a	Move left
