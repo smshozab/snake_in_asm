@@ -1,5 +1,5 @@
 <h1>Assembly Language Snake Game</h1>
-<h2></h2>About the project</h2>
+<h2>About the project</h2>
 This program is a personal project when I was learning 'computer organization and architecture' in the second year of my Computer Science degree. The idea behind this program was the classic "Snake" game. This program was made using Microsoft Visual Studio 2019's 32bit MASM architecture in protected mode (no interrupts) and the Irvine32 library.
 
 <h2>Features and Functions</h2>
