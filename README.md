@@ -1,8 +1,9 @@
 <h1>Assembly Language Snake Game</h1>
 <h2></h2>About the project</h2>
-This program is a personal project when I was learning 'computer organization and architecture' in the second year of my Management Mathematics and Computing bachelors degree. The idea behind of this program was the classic "Snake" game. This program was made using Microsoft Visual Studio 2017's 32bit MASM architecture in protected mode (no interrupts) and the Irvine32 library.
+This program is a personal project when I was learning 'computer organization and architecture' in the second year of my Computer Science degree. The idea behind this program was the classic "Snake" game. This program was made using Microsoft Visual Studio 2019's 32bit MASM architecture in protected mode (no interrupts) and the Irvine32 library.
 
 <h2>Features and Functions</h2>
+
 **Game Speed Selection**
 User may choose from three speed levels, level 1 to level 3, level 3 being the slowest.
 Each of the speed levels have a 40ms difference.
